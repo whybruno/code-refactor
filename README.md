@@ -1,15 +1,15 @@
-# About The Project
+:full_moon: # About The Project
 
 **Horiseon** is a Social Solution Services company with a website that contains serious problems with repetitive, non-semantic and disorganized code, preventing adequate accessibility, causing a negative impact on SEO and sales of its services.
 
 The code was refactored, bringing all these negative points to the positive side, having an important impact for **Horiseon** in attracting new customers.
 
-# Features
+:waxing_gibbous_moon: # Features
 
 - Strong **Accessibility**
 - Strong **Semantics**
 
-# Philosophy
+:first_quarter_moon: # Philosophy
 
 ## Why Accessibility is Important?
 
@@ -19,15 +19,15 @@ Visual, auditory, physical, speech, cognitive, and neurological disabilities sho
 
 By: **National Center on Deaf-Blindness**
 
-# Technologies
+:waxing_crescent_moon: # Technologies
 
 - HTML
 - CSS
 
-# Credits
+:new_moon: # Credits
 
 [National Center on Deaf-Blindness](https://zlnk.io/GsWhr8)
 
-# License
+:globe_with_meridians: # License
 
 MIT License
