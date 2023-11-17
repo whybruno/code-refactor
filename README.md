@@ -28,14 +28,14 @@ By: **National Center on Deaf-Blindness**
 - HTML
 - CSS
 
+# :globe_with_meridians: Website
+
+- [Horiseon](https://whybruno.github.io/code-refactor)
+
 # :copyright: Credits
 
 [National Center on Deaf-Blindness](https://zlnk.io/GsWhr8)
 
-# :earth_americas: Website
-
-- [Horiseon](https://whybruno.github.io/code-refactor)
-
-# :globe_with_meridians: License
+# :registered: License
 
 MIT License
