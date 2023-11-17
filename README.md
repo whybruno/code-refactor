@@ -9,7 +9,11 @@ The code was refactored, bringing all these negative points to the positive side
 - Strong **Accessibility**
 - Strong **Semantics**
 
-# :first_quarter_moon: Philosophy
+# :first_quarter_moon: Screenshot
+
+![screenshot of the horiseon webpage](./assets/images/screenshot.png)
+
+# :waxing_crescent_moon: Philosophy
 
 ## Why Accessibility is Important?
 
@@ -19,12 +23,12 @@ Visual, auditory, physical, speech, cognitive, and neurological disabilities sho
 
 By: **National Center on Deaf-Blindness**
 
-# :waxing_crescent_moon: Technologies
+# :new_moon: Technologies
 
 - HTML
 - CSS
 
-# :new_moon: Credits
+# :copyright: Credits
 
 [National Center on Deaf-Blindness](https://zlnk.io/GsWhr8)
 
